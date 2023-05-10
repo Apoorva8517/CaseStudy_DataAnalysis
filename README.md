@@ -9,7 +9,7 @@
  This reposiotry include sql scripts to explore data set , answering business  question 
  
  
- ## Visulisation 
+ ## Visualisation 
  For visualizating the result tableau public is used.
  
  
