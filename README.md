@@ -12,6 +12,17 @@
  ## Visualisation 
  For visualizating the result tableau public is used.
  
+ ## Contributors 
+ Apoorva Shandilya
+ Email : shandilya90apoorva@gamil.com
+ 
+ Edvin Hysenagolli
+ Email :edvinhysenagolli@gmail.com
+ 
+ Sohaib Hassan
+ Email : sohaibshgujjar@gmail.com
+   
+ 
  
  ## Presentation 
  Pdf of presentation is attached 
